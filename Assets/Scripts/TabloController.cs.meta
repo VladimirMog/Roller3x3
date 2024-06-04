@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4a21c227b29b2a34980b9333387cac0c
+timeCreated: 1513500716
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score0: {instanceID: 0}
+  - score1: {instanceID: 0}
+  - score2: {instanceID: 0}
+  - sc0: {fileID: 21300000, guid: 857a41ac0d02a2e44a821cd14d827f0d, type: 3}
+  - sc1: {fileID: 21300000, guid: 462dde975bb7cf04fa8fe16472d78821, type: 3}
+  - sc2: {fileID: 21300000, guid: 69be7433c62eb0d4b8beb82ce0976cf3, type: 3}
+  - sc3: {fileID: 21300000, guid: 0b5f5ef72e0e8174ca3ef2f1899e9c6a, type: 3}
+  - sc4: {fileID: 21300000, guid: c308e38caea3cfa41bfe2c0ce22ef442, type: 3}
+  - sc5: {fileID: 21300000, guid: 503ccca5cda446e488b9f956ef1ef2c9, type: 3}
+  - sc6: {fileID: 21300000, guid: 74e347b3aad28a74498671b1be57ff51, type: 3}
+  - sc7: {fileID: 21300000, guid: 9c7559019499d8947a8afc6e39b9ec79, type: 3}
+  - sc8: {fileID: 21300000, guid: ce197e5adabf28c43b0a9e5ac62240d2, type: 3}
+  - sc9: {fileID: 21300000, guid: faaee37821a299a4fad6638ff8298519, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
